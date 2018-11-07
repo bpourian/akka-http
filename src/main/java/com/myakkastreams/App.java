@@ -1,13 +1,13 @@
 package com.myakkastreams;
 
-/**
- * Hello world!
- *
- */
-public class App 
+
+import java.util.concurrent.ExecutionException;
+
+public class App
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+    public static void main( String[] args ) throws ExecutionException, InterruptedException {
+        SprintOne sprintOne = new SprintOne();
+
+        sprintOne.demonstrateSource();
     }
 }
