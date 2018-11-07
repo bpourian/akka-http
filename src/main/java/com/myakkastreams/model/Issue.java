@@ -1,4 +1,4 @@
-package com.myhttpakka.model;
+package com.myakkastreams.model;
 
 public class Issue {
 

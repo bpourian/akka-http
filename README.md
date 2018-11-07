@@ -1,6 +1,6 @@
-### Akka HTTP
+### Akka Streams
 
-Making http calls to fetch data with Akka!
+
 
 
 

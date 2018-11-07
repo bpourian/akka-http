@@ -1,4 +1,4 @@
-package com.myhttpakka;
+package com.myakkastreams;
 
 public class IssueRegistryActor {
 }

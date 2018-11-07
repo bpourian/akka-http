@@ -1,6 +1,4 @@
-package com.myhttpakka.model;
-
-import com.myhttpakka.model.Issue;
+package com.myakkastreams.model;
 
 import java.util.ArrayList;
 import java.util.List;

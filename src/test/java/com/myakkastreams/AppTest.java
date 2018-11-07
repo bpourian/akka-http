@@ -1,4 +1,4 @@
-package com.myhttpakka;
+package com.myakkastreams;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
