@@ -1,5 +1,7 @@
 package com.myhttpakka.model;
 
+import com.myhttpakka.model.Issue;
+
 import java.util.ArrayList;
 import java.util.List;
 
